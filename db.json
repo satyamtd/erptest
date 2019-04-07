@@ -1,1 +1,40 @@
-{"modules":[{"id":1, "name":"Stores and Inventory"}, {"id":2, "name":"HR & Training"}]}
+{"modules":[{"id":1, "name":"Stores and Inventory"}, {"id":2, "name":"HR & Training"}],
+"dailyinspection":[
+ {
+  "id":1,
+  "fire_station":"Krishnal Lanka Fire Station",
+  "vehicle_name":"Water Trailor",
+  "vehicle_number":"AP11 2019",
+  "engineoil_changed_date":"04/04/2019",
+  "speedometer_reading":34500,
+  "water_tender_fitness_certified_from_date":"04/04/2019",
+  "water_tender_fitness_certified_to_date":"12/04/2023",
+  "month_and_year":"04/2019",
+  "vehicle_disease_oil_verified":true,
+  "radiator_water_verified":true,
+  "engineoil_level_verified":true,
+  "air_of_all_tyres_verified":true,
+  "battery_verified":true,
+  "engine_started_and_verified":true,
+  "air_horn_verified":true,
+  "siren_verified":true,
+  "side_mirrors_verified":true,
+  "signal_lights_verified":true,
+  "head_lights_verified":true,
+  "wipers_verified":true,
+  "pto_process_verified":true,
+  "tyres_position_changed":false,
+  "fire_station_lockers_opened":true,
+  "back_mounted_pump_verified":true,
+  "suction_and_delivery_couplings_oil_applied":true,
+  "water_tanker_level_verified":true,
+  "vehicle_and_instruments_cleaned":true,
+  "all_instruments_ready_available":true,
+  "repairs_status_observed":true,
+  "created_date":"04/04/2019",
+  "driver_emp_id":"DR101",
+  "leading_fire_man_emp_id":"FR201",
+  "central_fire_officer_emp_id":"CO401"  
+ }
+]
+}
